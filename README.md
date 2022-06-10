@@ -1,1 +1,1 @@
-# HRY302_Computer_Organisation_Project
+# HRY302_Computer_Organization_Project
